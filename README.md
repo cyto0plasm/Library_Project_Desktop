@@ -47,10 +47,6 @@ LMS/
 
 ---
 
-## 👤 Author
-
-> _Add your name, contact, and LinkedIn here_
-
 
 this is a library Management System .
 its built with .NET Framework v 4.8 ,
