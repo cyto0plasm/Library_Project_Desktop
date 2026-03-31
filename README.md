@@ -1,7 +1,6 @@
 # 📚 LMS — Library Management System
 
 A desktop application built with **C++** and **CLI WinForms**, designed to manage library operations including book inventory, student records, and loan tracking.
-made it to help a friend out.
 ---
 ![Start](https://img.shields.io/badge/Start-01/04/2025-4CAF50?style=for-the-badge)
 ![End](https://img.shields.io/badge/End-20/5/2025-F44336?style=for-the-badge)
@@ -55,6 +54,7 @@ its built with .NET Framework v 4.8 ,
 using c++ CLR ,
 and database Of Sqlite (included as .dll)connected to the file lib.db ,
 its built  with the design pattern MVC(Model-View-Controller)->Manual working .
+Built it to help a friend out.
 
 before You try to use this project on your pc you will have to do some refrence to a certain library.
 if you dont you wont and cant use the code .
