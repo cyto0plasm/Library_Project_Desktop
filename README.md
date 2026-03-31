@@ -3,6 +3,8 @@
 A desktop application built with **C++** and **CLI WinForms**, designed to manage library operations including book inventory, student records, and loan tracking.
 made it to help a friend out.
 ---
+![Start](https://img.shields.io/badge/Start-01/04/2025-4CAF50?style=for-the-badge)
+![End](https://img.shields.io/badge/End-20/5/2025-F44336?style=for-the-badge)
 
 ## 🛠 Tech Stack
 
